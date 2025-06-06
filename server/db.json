@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Nguyễn Văn B",
+      "email": "nvb@gmail.com",
+      "address": "Cầu Giấy, Hà Nội"
+    },
+    {
+      "name": "Nguyễn Văn C",
+      "email": "nvc@gmail.com",
+      "address": "Thanh Xuân, Hà Nội",
+      "id": "3"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Cam",
+      "price": 12000
+    }
+  ],
+  "libraries": [
+    {
+      "bookName": "Trí tuệ xúc cảm",
+      "studentName": "Đỗ Văn G",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-25",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "bookName": "Tư duy nhanh và chậm",
+      "studentName": "Bùi Thị H",
+      "startDate": "14/04/2024",
+      "endDate": "20/04/2024"
+    },
+    {
+      "bookName": "Nhà thám hiểm",
+      "studentName": "Nguyễn Văn A",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-24",
+      "id": "9"
+    },
+    {
+      "bookName": "Nhà thám hiểm 1",
+      "studentName": "Nguyễn Văn B",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-24",
+      "id": "10"
+    },
+    {
+      "bookName": "Nhà thám hiểm 2",
+      "studentName": "Nguyễn Văn C",
+      "startDate": "2025-04-18",
+      "endDate": "2025-05-03",
+      "id": "11"
+    },
+    {
+      "bookName": "Đắc nhân tâm",
+      "studentName": "Ngọ Văn Quý",
+      "startDate": "2025-04-14",
+      "endDate": "2025-04-16",
+      "id": "12"
+    },
+    {
+      "bookName": "Nhà giả Kim",
+      "studentName": "Lê Văn B",
+      "startDate": "2025-04-09",
+      "endDate": "2025-04-15",
+      "id": "13"
+    },
+    {
+      "id": "8944",
+      "bookName": "Trí tuệ xúc cảm",
+      "studentName": "Đỗ Văn G",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-25"
+    }
+  ]
+}
